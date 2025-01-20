@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "name": "calc-rca-2025",
+  "version": "1.0.0",
+  "description": "learning js and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node useCalculator.js"
+  },
+  "keywords": [
+    "calc",
+    "rca",
+    "learning"
+  ],
+  "author": "Class B",
+  "license": "ISC"
+}
